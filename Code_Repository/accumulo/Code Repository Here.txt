@@ -1,0 +1,1 @@
+git clone from https://github.com/apache/accumulo.git
